@@ -1,3 +1,22 @@
-
-[]
-      
+[
+  {
+    "url": "https://github.com/Fannovel16/comfyui_controlnet_aux",
+    "name": "comfyui_controlnet_aux",
+    "path": "custom_nodes",
+    "fetch_type": "git-clone",
+    "nodes": [
+      "DWPreprocessor",
+      "LeReS-DepthMapPreprocessor",
+      "LineArtPreprocessor"
+    ]
+  },
+  {
+    "url": "https://github.com/Gourieff/comfyui-reactor-node",
+    "name": "comfyui-reactor-node",
+    "path": "custom_nodes",
+    "fetch_type": "git-clone",
+    "nodes": [
+      "ReActorFaceSwap"
+    ]
+  }
+]

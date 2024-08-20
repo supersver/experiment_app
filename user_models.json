@@ -31,8 +31,8 @@
   },
   {
     "name": "control_v11p_sd15_openpose.pth",
-    "url": "https://civitai.com/api/download/models/537364",
-    "path": "models/checkpoints",
+    "url": "https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11p_sd15_openpose.pth",
+    "path": "models/controlnet",
     "fetch_type": "download"
   },
   {

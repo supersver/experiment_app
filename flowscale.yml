@@ -3,7 +3,12 @@ models: models.json
 custom_nodes: custom_nodes.json
 user_models: user_models.json
 user_custom_nodes: user_custom_nodes.json
-workflows: []
+workflows:
+  - id: dpws8rbzpkw
+    name: old_photo_restore_api.json
+    description: ''
+    file: openart_workflows/old_photo_restore_api.json
+    version: 0
 normal_workflows:
   - id: tc2f3kzopm
     name: photo_reimagine.json

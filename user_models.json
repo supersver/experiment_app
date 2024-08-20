@@ -1,10 +1,44 @@
-
 [
   {
     "name": "v1-5-pruned-emaonly.ckpt",
     "url": "https://huggingface.co/runwayml/stable-diffusion-v1-5/resolve/main/v1-5-pruned-emaonly.ckpt",
     "path": "models/checkpoints",
     "fetch_type": "download"
+  },
+  {
+    "name": "control_v11p_sd15_lineart.pth",
+    "url": "https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11p_sd15_lineart.pth",
+    "path": "models/controlnet",
+    "fetch_type": "download"
+  },
+  {
+    "name": "New folder\\epicphotogasm_x.safetensors",
+    "url": "https://civitai.com/api/download/models/429454",
+    "path": "models/checkpoints",
+    "fetch_type": "download"
+  },
+  {
+    "name": "codeformer.pth",
+    "url": "https://github.com/sczhou/CodeFormer/releases/download/v0.1.0/codeformer.pth",
+    "path": "models/facerestore_models",
+    "fetch_type": "download"
+  },
+  {
+    "name": "control_v11f1p_sd15_depth.pth",
+    "url": "https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11f1p_sd15_depth.pth",
+    "path": "models/controlnet",
+    "fetch_type": "download"
+  },
+  {
+    "name": "control_v11p_sd15_openpose.pth",
+    "url": "https://civitai.com/api/download/models/537364",
+    "path": "models/checkpoints",
+    "fetch_type": "download"
+  },
+  {
+    "name": "vae-ft-mse-840000-ema-pruned.safetensors",
+    "url": "https://huggingface.co/stabilityai/sd-vae-ft-mse-original/resolve/main/vae-ft-mse-840000-ema-pruned.safetensors",
+    "path": "models/vae",
+    "fetch_type": "download"
   }
 ]
-      

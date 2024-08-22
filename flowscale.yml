@@ -34,4 +34,8 @@ workflows:
     outputs:
       - label: Output Image
         demo_type: image
-normal_workflows: []
+normal_workflows:
+  - id: etr65py4s2n
+    name: photo_restore.json
+    file: openart_workflows/photo_restore.json
+    version: 0

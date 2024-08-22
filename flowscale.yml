@@ -43,3 +43,7 @@ normal_workflows:
     name: photo_restore.json
     file: openart_workflows/photo_restore.json
     version: 0
+  - id: zdhed9zjehs
+    name: jhhj.json
+    file: openart_workflows/jhhj.json
+    version: 0

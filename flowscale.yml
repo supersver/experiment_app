@@ -47,3 +47,7 @@ normal_workflows:
     name: jhhj.json
     file: openart_workflows/jhhj.json
     version: 0
+  - id: 3px3lafeq2m
+    name: test_herer.json
+    file: openart_workflows/test_herer.json
+    version: 0

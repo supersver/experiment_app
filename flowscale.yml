@@ -34,10 +34,6 @@ workflows:
     outputs:
       - label: Output Image
         demo_type: image
-  - id: t0nxl3yqp2n
-    name: photo_reimagine.json
-    description: ''
-    file: openart_workflows/photo_reimagine.json
 normal_workflows:
   - id: tc2f3kzopm
     name: photo_reimagine.json
